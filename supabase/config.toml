@@ -1,0 +1,10 @@
+project_id = "syeshhniacrjqsufcnmv"
+
+[functions.gemini-word-lookup]
+verify_jwt = false
+
+[functions.gemini-practice]
+verify_jwt = false
+
+[functions.gemini-chat]
+verify_jwt = false
